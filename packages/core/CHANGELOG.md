@@ -1,5 +1,11 @@
 # ai
 
+## 3.0.5
+
+### Patch Changes
+
+- e25f3ca: type improvements
+
 ## 3.0.4
 
 ### Patch Changes
